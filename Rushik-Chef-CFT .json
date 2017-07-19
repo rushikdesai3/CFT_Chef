@@ -1,5 +1,6 @@
 {
     "AWSTemplateFormatVersion": "2010-09-09",
+    "Description": "CloudFormation Template to create architecture in AWS with LAMP and Bitnami Wordpress instances, diagram in Git repo Architecture.png file",a
     "Resources": {
         "RushikChefVPC": {
             "Type": "AWS::EC2::VPC",
